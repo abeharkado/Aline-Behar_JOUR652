@@ -1,6 +1,8 @@
 .btn {
-    font-family: 'Special Elite', system-ui;
+    font-family: "Special Elite", arial, sans-serif;
     margin-top: 20px;
+    color: red;
+
 }
 
 .col {
